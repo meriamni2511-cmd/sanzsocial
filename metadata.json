@@ -1,0 +1,8 @@
+{
+  "name": "Bina.ai - Autonomous Social Orchestration",
+  "description": "A cutting-edge social media management platform powered by Gemini AI, featuring predictive scheduling, AI-driven content composition, and a modern glassmorphic Bento dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
